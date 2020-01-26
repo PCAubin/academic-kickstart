@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -64,8 +64,12 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
++++
+(Accepted at ECC 2020) PCAF and Nicolas Petit, Data-driven approximation of differential inclusions and application to detection of transportation modes, 2020
+
+(Under review at Systems \& Control Letters) PCAF, Lipschitz regularity of the minimum time function of differential inclusions with state constraints, 2019

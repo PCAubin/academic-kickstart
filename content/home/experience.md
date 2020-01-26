@@ -18,27 +18,55 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD student"
+  company = "MINES ParisTech"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Paris"
+  date_start = "2018-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
+  description = """ """
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Public consultant/Graduate student"
+  company = "AgroParisTech and ENPC"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Paris"
+  date_start = "2017-09-01"
+  date_end = "2018-09-01"
+  
+  description = """
+  Hired as top civil servant (Corps des IPEF). Specialized in:
+  * Banking and macroeconomics
+  * General and Labour law
+  * Environmental dialogue
+  
+  Worked on artificial intelligence tailored to the strategies of the technical and scientific network of the French Ministry of Environment. I handed a report shortly after the Villani mission "For a meaningful Artificial Intelligence". This report focuses on conceptualizing machine learning approaches and details its possible effects in institutions transforming due to the Digital Revolution.
+  """
+[[experience]]
+  title = "Graduate student"
+  company = "École Normale Supérieure Paris-Saclay"
+  company_url = ""
+  location = "Cachan"
+  date_start = "2016-09-01"
+  date_end = "2017-09-01"
+  
+  description = """
+  Diploma obtained with Highest Honours. Specialized in:
+  * General Machine Learning
+  * Convex optimization
+  * Kernel methods
+  """
+[[experience]]
+  title = "Graduate student"
+  company = "École polytechnique"
+  company_url = ""
+  location = "Palaiseau"
+  date_start = "2016-09-01"
+  date_end = "2017-09-01"
+  
+  description = """
+  Diploma obtained with Highest Honours. Specialized in:
+  * Applied Mathematics
+  * Quantum Physics
+  * (Neuro)biology
+  """	
 +++
