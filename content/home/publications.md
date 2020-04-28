@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Publications"
 subtitle = ""
@@ -70,6 +70,8 @@ subtitle = ""
 #Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 #{{% /alert %}}
 +++
-(Accepted at ECC 2020) PCAF and Nicolas Petit, Data-driven approximation of differential inclusions and application to detection of transportation modes, 2020
+(Accepted at ECC 2020) PCAF, Nicolas Petit and Zoltan Szabo, _Kernel Regression for Trajectory Reconstruction of Vehicles under Speed and Inter-Vehicular Distance Constraints_, (to be published July 2020)
 
-(Under review at Systems \& Control Letters) PCAF, Lipschitz regularity of the minimum time function of differential inclusions with state constraints, 2019
+(Accepted at ECC 2020) PCAF and Nicolas Petit, _Data-driven approximation of differential inclusions and application to detection of transportation modes_, (to be published May 2020)
+
+(Accepted at Systems \& Control Letters) PCAF, _Lipschitz regularity of the minimum time function of differential inclusions with state constraints_, 2020, [link](https://www.sciencedirect.com/science/article/pii/S016769112030058X), [pdf](https://authors.elsevier.com/a/1atGt_3q1Szpjg)

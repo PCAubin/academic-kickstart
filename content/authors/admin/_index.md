@@ -81,5 +81,7 @@ Lately, I have focused on dealing with the constraints appearing in optimal cont
 
 I graduated from École polytechnique (X2013) in 2017, then obtained my Master degree (MVA, Mathematics-Vision-Learning) with Highest Honours after an internship with [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/) (CBIO-Google) on gene network inference (based on single-cell RNA sequencing).
 
+My PhD and my [lyricomania](https://fr.wiktionary.org/wiki/lyricomanie) do not leave me so much time to spare, but I occasionnaly [paint](https://www.arplastix.com/pierre-cyril-aubin/).
+ 
 </div>
 Contact: pierre-cyril[dot]aubin(at)mines-paristech[dot]fr
