@@ -70,7 +70,7 @@ subtitle = ""
 #Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 #{{% /alert %}}
 +++
-(Accepted at ECC 2020) PCAF, Nicolas Petit and Zoltan Szabo, _Kernel Regression for Trajectory Reconstruction of Vehicles under Speed and Inter-Vehicular Distance Constraints_, (to be published July 2020)
+(Accepted at IFAC 2020) PCAF, Nicolas Petit and Zoltan Szabo, _Kernel Regression for Trajectory Reconstruction of Vehicles under Speed and Inter-Vehicular Distance Constraints_, (to be published July 2020)
 
 (Accepted at ECC 2020) PCAF and Nicolas Petit, _Data-driven approximation of differential inclusions and application to detection of transportation modes_, (to be published May 2020)
 
