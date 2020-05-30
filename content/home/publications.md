@@ -70,8 +70,13 @@ subtitle = ""
 #Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 #{{% /alert %}}
 +++
-(Accepted at IFAC 2020) PCAF, Nicolas Petit and Zoltan Szabo, _Kernel Regression for Trajectory Reconstruction of Vehicles under Speed and Inter-Vehicular Distance Constraints_, (to be published July 2020)
 
-(Accepted at ECC 2020) PCAF and Nicolas Petit, _Data-driven approximation of differential inclusions and application to detection of transportation modes_, (to be published May 2020)
+(Submitted) PCAF and Zoltan Szabo, _Hard Shape-Constrained Kernel Machines_, [arXiv](https://arxiv.org/abs/2005.12636), [HAL](https://hal.archives-ouvertes.fr/hal-02625276),
 
-(Accepted at Systems \& Control Letters) PCAF, _Lipschitz regularity of the minimum time function of differential inclusions with state constraints_, 2020, [link](https://www.sciencedirect.com/science/article/pii/S016769112030058X), [pdf](https://authors.elsevier.com/a/1atGt_3q1Szpjg)
+(Accepted at Bioinformatics) PCAF and Jean-Philippe Vert, _Gene regulation inference from single-cell RNA-seq data with linear differential equations and velocity inference_, (to be published June 2020), [biorXiv](https://www.biorxiv.org/content/10.1101/464479v1), [pdf](publication/PCAF_Bioinfo2020/PCAF_Bioinfo2020arxiv/PCAF_Bioinfo2020arxiv.pdf), [supp](publication/PCAF_Bioinfo2020/PCAF_Bioinfo2020arxiv_supp/PCAF_Bioinfo2020arxiv_supp.pdf),
+
+(Accepted at IFAC 2020) PCAF, Nicolas Petit and Zoltan Szabo, _Kernel Regression for Trajectory Reconstruction of Vehicles under Speed and Inter-Vehicular Distance Constraints_, (to be published July 2020), 
+
+(Accepted at ECC 2020) PCAF and Nicolas Petit, _Data-driven approximation of differential inclusions and application to detection of transportation modes_, (to be published May 2020), [pdf](publication/PCAF_ECC2020/PCAF_ECC2020text/PCAF_ECC2020text.pdf), [slides](publication/PCAF_ECC2020/PCAF_ECC2020slides/PCAF_ECC2020slides.pdf)
+
+(Accepted at Systems \& Control Letters) PCAF, _Lipschitz regularity of the minimum time function of differential inclusions with state constraints_, 2020, [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S016769112030058X), [pdf](publication/PCAF_S&CL2020/PCAF_S&CL2020arxiv/PCAF_S&CL2020arxiv.pdf)
