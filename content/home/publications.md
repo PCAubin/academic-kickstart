@@ -71,6 +71,8 @@ subtitle = ""
 #{{% /alert %}}
 +++
 
+(Submitted) PCAF, _Linearly-constrained Linear Quadratic Regulator from the viewpoint of kernel methods_, June 2020
+
 (Submitted) PCAF and Zoltan Szabo, _Hard Shape-Constrained Kernel Machines_, [arXiv](https://arxiv.org/abs/2005.12636), [HAL](https://hal.archives-ouvertes.fr/hal-02625276),
 
 PCAF, Nicolas Petit and Zoltan Szabo, _Kernel Regression for Trajectory Reconstruction of Vehicles under Speed and Inter-Vehicular Distance Constraints_, **Proceedings IFAC WC 2020**, July 2020, [article], [pdf](publication/PCAF_IFAC2020/PCAF_IFAC2020text/PCAF_IFAC2020text.pdf), [slides](publication/PCAF_IFAC2020/PCAF_IFAC2020slides/PCAF_IFAC2020slides.pdf), [video](https://drive.google.com/file/d/1UU6NU0HqbONkX18H0LVG9_1BTMs4z1a6/view?usp=sharing)
