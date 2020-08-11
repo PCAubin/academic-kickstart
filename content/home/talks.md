@@ -68,9 +68,9 @@ subtitle = ""
  css_class = ""
  #-Attended [Journées annuelles 2019 du GdR MOA](https://gdrmoa.math.cnrs.fr/activites/journees-annuelles-2019-gdr-moa/), Oct 19
 +++
--Presented a poster at [SPIGL'20](https://franknielsen.github.io/SPIG-LesHouches2020/), information geometry summer school, July 20
+-Presented a poster at [SPIGL'20](https://franknielsen.github.io/SPIG-LesHouches2020/), information geometry summer school, July 20, [poster](publication/PCAF_SPIG20poster/PCAF_SPIG20poster.pdf)
 
--Presented a poster at [MLSS 2020 Tübingen](http://mlss.tuebingen.mpg.de/2020/), machine learning summer school, July 20
+-Presented a poster at [MLSS 2020 Tübingen](http://mlss.tuebingen.mpg.de/2020/), machine learning summer school, July 20, [slides](publication/PCAF_MLSS2020slides/PCAF_MLSS2020slides.pdf)
 
 -Gave a talk at [IFAC World Congress](https://www.ifac2020.org/), July 20, [slides](publication/PCAF_IFAC2020/PCAF_IFAC2020slides/PCAF_IFAC2020slides.pdf), [video](https://drive.google.com/file/d/1UU6NU0HqbONkX18H0LVG9_1BTMs4z1a6/view?usp=sharing)
 
