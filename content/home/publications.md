@@ -82,3 +82,4 @@ PCAF and Jean-Philippe Vert, _Gene regulation inference from single-cell RNA-seq
 PCAF and Nicolas Petit, _Data-driven approximation of differential inclusions and application to detection of transportation modes_, **Proceedings ECC 2020**, May 2020, [article], [pdf](publication/PCAF_ECC2020/PCAF_ECC2020text/PCAF_ECC2020text.pdf), [slides](publication/PCAF_ECC2020/PCAF_ECC2020slides/PCAF_ECC2020slides.pdf), [video](https://drive.google.com/file/d/18Ul-O1f_uOKrdYOqVe3aIZXAzmhRofBp/view?usp=sharing)
 
 PCAF, _Lipschitz regularity of the minimum time function of differential inclusions with state constraints_, **Systems \& Control Letters**, May 2020, [article](https://doi.org/10.1016/j.sysconle.2020.104677), [pdf](publication/PCAF_S&CL2020/PCAF_S&CL2020arxiv/PCAF_S&CL2020arxiv.pdf)
+
