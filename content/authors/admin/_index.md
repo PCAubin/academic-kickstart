@@ -14,15 +14,18 @@ role: PhD Student in Machine learning
 
 # Organizations/Affiliations
 organizations:
-- name: MINES ParisTech, ENPC
-  url: ""
-
+- name: MINES ParisTech
+  url: "https://www.minesparis.psl.eu/"
+- name: École des Ponts ParisTech
+  url: "https://www.ecoledesponts.fr/"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include kernel methods, shape constraints and control theory.
 
 interests:
 - Kernel Methods
 - Control Theory
+- Optimal Control
+- Nonparametric Estimation
 - Shape constraints
 
 education:
@@ -51,9 +54,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/pierre-cyril-aubin-frankowski-952706144/?locale=en_US
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=60oOCO0AAAAJ&hl=fr
 - icon: github
   icon_pack: fab
   link: https://github.com/PCAubin
@@ -74,7 +77,7 @@ user_groups:
 ---
 <div style="text-align: justify">
 
-Since September 2018, I am a Ph.D. student at the [CAS laboratory](http://cas.ensmp.fr/) at Mines ParisTech, advised by [Nicolas Petit](http://cas.ensmp.fr/~petit/), working on learning the dynamics of control systems through kernel methods.
+Since September 2018, I am a Ph.D. student at the [CAS laboratory](http://cas.ensmp.fr/) at Mines ParisTech, advised by [Nicolas Petit](http://cas.ensmp.fr/~petit/), working on learning the dynamics of control systems through kernel methods. I am especially working on a new positive definite kernel, which I named the Linear-Quadratic kernel, a matrix-valued reproducing kernel instrumental in Linear-Quadratic optimal control.
 
 
 Lately, I have focused on dealing with the constraints appearing in optimal control or trajectory reconstruction. This is part of a work on general shape constraints in kernel regression with [Zoltán Szabó](http://www.cmap.polytechnique.fr/~zoltan.szabo/index.html), for e.g. non-crossing quantile regression.
