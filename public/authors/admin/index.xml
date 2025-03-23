@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre-Cyril Aubin-Frankowski</title>
+    <link>https://pcaubin.github.io/authors/admin/</link>
+      <atom:link href="https://pcaubin.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre-Cyril Aubin-Frankowski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://pcaubin.github.io/images/icon_hu_e747e089a9e68c83.png</url>
+      <title>Pierre-Cyril Aubin-Frankowski</title>
+      <link>https://pcaubin.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://pcaubin.github.io/authors/admin/_index---copie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pcaubin.github.io/authors/admin/_index---copie/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;New article in Pure and Applied Functional Analysis, with &lt;a href=&#34;https://personal.utdallas.edu/~axb046100/&#34;&gt;Alain Bensoussan&lt;/a&gt;, on the RKHSs of Kalman filtering, &lt;a href=&#34;https://arxiv.org/abs/2208.07030&#34;&gt;check it out&lt;/a&gt;**&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New article at NeurIPS22, with &lt;a href=&#34;https://akorba.github.io/&#34;&gt;Anna Korba&lt;/a&gt; and &lt;a href=&#34;https://flavienleger.github.io/&#34;&gt;Flavien Léger&lt;/a&gt;, on Mirror Descent with Relative Smoothness in Measure Spaces, with application to Sinkhorn and EM &lt;a href=&#34;https://arxiv.org/abs/2206.08873&#34;&gt;check it out&lt;/a&gt;**&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New article, with &lt;a href=&#34;http://www.cmap.polytechnique.fr/~gaubert/&#34;&gt;Stéphane Gaubert&lt;/a&gt;, on the tropical analogues of reproducing kernels with applications to value functions, &lt;a href=&#34;https://arxiv.org/abs/2202.11410&#34;&gt;check it out&lt;/a&gt;**&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Since September 2021, I am a post-doctoral researcher at &lt;a href=&#34;https://www.di.ens.fr/sierra/&#34;&gt;INRIA SIERRA&lt;/a&gt;, working with &lt;a href=&#34;https://www.di.ens.fr/~rudi/&#34;&gt;Alessandro Rudi&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I defended my PhD in July 2021. The manuscript can be found &lt;a href=&#34;files/AUBIN_PhD_manuscript_EDVersion.pdf&#34;&gt;here&lt;/a&gt;, the slides are &lt;a href=&#34;files/AUBIN_PhD_slides_040721.pdf&#34;&gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I obtained my PhD in July 2021 from &lt;a href=&#34;https://psl.eu/&#34;&gt;PSL&lt;/a&gt; &lt;a href=&#34;https://www.minesparis.psl.eu/&#34;&gt;MINES ParisTech&lt;/a&gt; (Paris), at the &lt;a href=&#34;http://cas.ensmp.fr/&#34;&gt;CAS laboratory&lt;/a&gt;, where I was advised by &lt;a href=&#34;http://cas.ensmp.fr/~petit/&#34;&gt;Nicolas Petit&lt;/a&gt;, working on shape/state constraints in optimal control and nonparametric regression through kernel methods. This revolves around optimization problems in infinite dimensions with infinitely many constraints. I am interested in the near future in studying connections between kernels and dynamical constrained/controlled/estimated systems, among which measures, continuity equations (see &lt;a href=&#34;http://proceedings.mlr.press/v139/korba21a.html&#34;&gt;ICML21&lt;/a&gt;) and structured learning problems.&lt;/p&gt;
+&lt;p&gt;During my PhD, I defined a new positive definite kernel, dubbed the Linear-Quadratic kernel. It is a matrix-valued reproducing kernel, instrumental in Linear-Quadratic optimal control, related to the Gramian of controllability and to the dual Riccati equation (see &lt;a href=&#34;publication/PCAF_CRAS2020/PCAF_CRAS2020text/PCAF_CRAS2020text.pdf&#34;&gt;pdf&lt;/a&gt; for an introduction, &lt;a href=&#34;publication/PCAF_SICON2020/PCAF_SICON2020arxiv/PCAF_SICON2020arxiv.pdf&#34;&gt;pdf&lt;/a&gt; for the application to state constraints, &lt;a href=&#34;https://arxiv.org/abs/2206.09419&#34;&gt;arxiv&lt;/a&gt; with &lt;a href=&#34;https://profiles.utdallas.edu/alain.bensoussan&#34;&gt;Alain Bensoussan&lt;/a&gt; for a general formula extended to PDE control).&lt;/p&gt;
+&lt;p&gt;I have also developped a general, convex and modular framework to handle shape constraints in RKHSs (see &lt;a href=&#34;publication/PCAF_JMLR2021/PCAF_JMLR2021arxiv/PCAF_JMLR2021arxiv.pdf&#34;&gt;pdf&lt;/a&gt;), applied for instance to trajectory reconstruction (see &lt;a href=&#34;https://slideslive.com/embed/presentation/38936233?url=https%3A%2F%2Fneurips.cc%2Fvirtual%2F2020%2Fprotected%2Fposter_03fa2f7502f5f6b9169e67d17cbf51bb.html&amp;amp;origin=https%3A%2F%2Fneurips.cc&amp;amp;target_id=presentation-embed&amp;amp;auto_play=&amp;amp;zoom_ratio=&amp;amp;disable_fullscreen=&amp;amp;locale=en&amp;amp;demo=&amp;amp;vertical_enabled=true&amp;amp;vertical_enabled_on_mobile=&amp;amp;vertical_when_width_lte=500&amp;amp;allow_hidden_controls_when_paused=true&amp;amp;debug_slideslive_player=&amp;amp;user_uuid=04174542-23c2-4cba-9cae-238237fa3c3b&#34;&gt;NeuriPS 2020 video&lt;/a&gt; for a quick overview in 180s). This is a line of work, originally inspired by non-crossing quantile regression, with &lt;a href=&#34;https://zoltansz.github.io/&#34;&gt;Zoltán Szabó&lt;/a&gt;. We were particularly motivated by econometrics and finance studies.&lt;/p&gt;
+&lt;p&gt;I graduated from École polytechnique (X2013) in 2017, then obtained my Master degree (MVA, Mathematics-Vision-Learning) with Highest Honours after an internship with &lt;a href=&#34;http://members.cbio.mines-paristech.fr/~jvert/&#34;&gt;Jean-Philippe Vert&lt;/a&gt; (CBIO-Google) on gene network inference (based on single-cell RNA sequencing).&lt;/p&gt;
+&lt;p&gt;My research and my &lt;a href=&#34;https://fr.wiktionary.org/wiki/lyricomanie&#34;&gt;lyricomania&lt;/a&gt;, a passion I share within the association &lt;a href=&#34;https://juvenilia.eu/&#34;&gt;Juvenilia&lt;/a&gt;, do not leave me so much time to spare, but I occasionnaly &lt;a href=&#34;https://www.arplastix.com/pierre-cyril-aubin/&#34;&gt;paint&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+Contact: pierre-cyril[dot]aubin(at)inria[dot]fr</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pcaubin.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pcaubin.github.io/authors/admin/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;h2 id=&#34;news&#34;&gt;&lt;strong&gt;News&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Starting Dec 2024, I am a permanent researcher/associate professor at CERMICS, ENPC, near Paris.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2407.17200&#34;&gt;article&lt;/a&gt; with &lt;a href=&#34;https://ydecastro.github.io/&#34;&gt;Yohann de Castro&lt;/a&gt;, &lt;a href=&#34;https://axelparmentier.github.io/&#34;&gt;Axel Parmentier&lt;/a&gt;, &lt;a href=&#34;https://www.di.ens.fr/~rudi/&#34;&gt;Alessandro Rudi&lt;/a&gt;, on Surrogate Policies for Combinatorial Optimization Problems, &lt;a href=&#34;publication/PCAF_GenBoundsCombinatorial_slides/Axel_combinatorial_perturbed_2024_07_ISMP.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2404.06857&#34;&gt;article&lt;/a&gt; with &lt;a href=&#34;http://www.cmap.polytechnique.fr/~gaubert/&#34;&gt;Stéphane Gaubert&lt;/a&gt;, on the characterization of order isomorphisms, &lt;a href=&#34;publication/PCAF_Isomorphisms2024/PCAF_Isomorphisms_slides_AKOR_110424.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2308.11435&#34;&gt;article&lt;/a&gt; with &lt;a href=&#34;https://personal.utdallas.edu/~axb046100/&#34;&gt;Alain Bensoussan&lt;/a&gt;, on the RKHSs of push-forward maps for mean-field control,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New &lt;a href=&#34;https://arxiv.org/abs/2305.04917&#34;&gt;article&lt;/a&gt; with &lt;a href=&#34;https://flavienleger.github.io/&#34;&gt;Flavien Léger&lt;/a&gt;, on alternating minimization and gradient descent with a general cost, &lt;a href=&#34;publication/PCAF_GradDesc-GenCost_slides/PCAF_GradDesc-GenCost_slides_short_ESI24.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If you want an overview of some of my research up to July 2023 concerning optimization and kernels, here are some &lt;a href=&#34;publication/PCAF_LIKE23_KernelOptim_slides/PCAF_LIKE23_KernelOptim_slides.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;biography&#34;&gt;&lt;strong&gt;Biography&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Starting Dec 2024, I am an associate professor at Ecole des Ponts ParisTech and a researcher at CERMICS, in the Optimization team. In 2023-24 I was a postdoc in the &lt;a href=&#34;https://www.tuwien.at/mg/vador/&#34;&gt;VADOR team&lt;/a&gt; at &lt;a href=&#34;https://www.tuwien.at/en/tu-wien&#34;&gt;TU Wien&lt;/a&gt; with &lt;a href=&#34;https://www.arisdaniilidis.at/&#34;&gt;Aris Daniilidis&lt;/a&gt;. In 2021-23, I was a post-doctoral researcher at &lt;a href=&#34;https://www.di.ens.fr/sierra/&#34;&gt;INRIA SIERRA&lt;/a&gt;, working with &lt;a href=&#34;https://www.di.ens.fr/~rudi/&#34;&gt;Alessandro Rudi&lt;/a&gt;. I obtained my PhD in July 2021 from &lt;a href=&#34;https://psl.eu/&#34;&gt;PSL&lt;/a&gt; &lt;a href=&#34;https://www.minesparis.psl.eu/&#34;&gt;MINES ParisTech&lt;/a&gt; (Paris), at the &lt;a href=&#34;http://cas.ensmp.fr/&#34;&gt;CAS laboratory&lt;/a&gt;, working on shape/state constraints in optimal control and nonparametric regression through kernel methods (&lt;a href=&#34;files/AUBIN_PhD_manuscript_EDVersion.pdf&#34;&gt;manuscript&lt;/a&gt;, &lt;a href=&#34;files/AUBIN_PhD_slides_040721.pdf&#34;&gt;slides&lt;/a&gt;). I graduated from École polytechnique (X2013) in 2017, then obtained my Master degree (MVA, Mathematics-Vision-Learning) with Highest Honours after an internship with &lt;a href=&#34;http://members.cbio.mines-paristech.fr/~jvert/&#34;&gt;Jean-Philippe Vert&lt;/a&gt; (CBIO-Google) on gene network inference (based on single-cell RNA sequencing).&lt;/p&gt;
+&lt;p&gt;I am interested in the links between kernel methods, optimal control, Kalman filtering and optimization in measure spaces. So far I have shown that kernels appear in linear-quadratic optimal control because of Hilbertian vector spaces of trajectories, while, for estimation problems, they appear through covariances of Gaussian processes. It is this &lt;em&gt;dual&lt;/em&gt;, deterministic and stochastic, nature of kernels which underlies the &lt;em&gt;duality&lt;/em&gt; between optimal control and estimation in the Linear-Quadratic case (see &lt;a href=&#34;https://arxiv.org/abs/2208.07030&#34;&gt;arXiv&lt;/a&gt;, &lt;a href=&#34;publication/PCAF_Kalman2022slides/PCAF_Kalman2022slides.pdf&#34;&gt;slides&lt;/a&gt; with &lt;a href=&#34;https://personal.utdallas.edu/~axb046100/&#34;&gt;Alain Bensoussan&lt;/a&gt;). Kernels even extend to mean-field control (&lt;a href=&#34;https://arxiv.org/abs/2308.11435&#34;&gt;article&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;My latest focus is on optimization problems where the notion of distance is replaced by a generic cost function (&lt;a href=&#34;https://arxiv.org/abs/2305.04917&#34;&gt;article&lt;/a&gt;). The natural algorithm here is alternating minimization for which we gave novel rates with &lt;a href=&#34;https://flavienleger.github.io/&#34;&gt;Flavien Léger&lt;/a&gt;. I also  work on the characterization of order isomorphisms with &lt;a href=&#34;http://www.cmap.polytechnique.fr/~gaubert/&#34;&gt;Stéphane Gaubert&lt;/a&gt; (&lt;a href=&#34;https://arxiv.org/abs/2404.06857&#34;&gt;article&lt;/a&gt; and &lt;a href=&#34;publication/PCAF_Isomorphisms2024/PCAF_Isomorphisms_slides_AKOR_110424.pdf&#34;&gt;slides&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;My research and my &lt;a href=&#34;https://fr.wiktionary.org/wiki/lyricomanie&#34;&gt;lyricomania&lt;/a&gt;, a passion I share within the association &lt;a href=&#34;https://juvenilia.eu/&#34;&gt;Juvenilia&lt;/a&gt;, do not leave me so much time to spare, but I occasionnaly &lt;a href=&#34;https://www.arplastix.com/pierre-cyril-aubin/&#34;&gt;paint&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+Contact: pierre-cyril[dot]aubin(at)enpc[dot]fr
+&lt;pierre-cyril[dot]aubin(at)inria[dot]fr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
