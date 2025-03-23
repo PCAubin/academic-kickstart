@@ -1,8 +1,8 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -17,14 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Post-doctoral researcher"
+  company = "TU Wien, VADOR"
+  company_url = ""
+  location = "Vienna"
+  date_start = "2023-09-01"
+  date_end = ""
+  description = """Optimization with general cost functions"""  
+
+[[experience]]
+  title = "Post-doctoral researcher"
+  company = "INRIA SIERRA"
+  company_url = ""
+  location = "Paris"
+  date_start = "2021-09-01"
+  date_end = "2021-08-31"
+  description = """Kernel methods for constrained optimization problems"""  
 [[experience]]
   title = "PhD student"
   company = "MINES ParisTech"
   company_url = ""
   location = "Paris"
   date_start = "2018-09-01"
-  date_end = ""
-  description = """ """
+  date_end = "2021-07-05"
+  description = """ Title: Estimation and Control under Constraints through Kernel Methods. 
+  
+  Abstract: Pointwise state and shape constraints in control theory and nonparametric estimation are difficult to handle as they often involve convex optimization problem with an infinite number of inequality constraints. Satisfaction of these constraints is critical in many applications, such as path-planning or joint quantile regression. Reproducing kernels are propitious for pointwise evaluations. However representer theorems, which ensure the numerical applicability of kernels, cannot be applied for an infinite number of evaluations. Through constructive algebraic and geometric arguments, we prove that an infinite number of affine real-valued constraints over derivatives of the model can be tightened into a finite number of second-order cone constraints when looking for functions in vector-valued reproducing kernel Hilbert spaces. We show that state-constrained Linear-Quadratic (LQ) optimal control is a shape-constrained regression over the Hilbert space of linearly-controlled trajectories defined by an explicit LQ kernel related to the Riccati matrix. The efficiency of the developed approach is illustrated on various examples from both linear control theory and nonparametric estimation. Finally, we provide some results for general differential inclusions in minimal time problems and identification of the graph of the set-valued map. Most of all we bring to light a novel connection between reproducing kernels and optimal control theory, identifying the Hilbertian kernel of linearly controlled trajectories."""
 [[experience]]
   title = "Public consultant/Graduate student"
   company = "AgroParisTech and ENPC"
