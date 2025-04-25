@@ -76,7 +76,7 @@ subtitle = ""
 
 22. (submitted) PCAF, [Yohann de Castro](https://ydecastro.github.io/), [Axel Parmentier](https://axelparmentier.github.io/), [Alessandro Rudi](https://www.di.ens.fr/~rudi/), _Generalization Bounds of Surrogate Policies for Combinatorial Optimization Problems_, July 2024, [arXiv](https://arxiv.org/abs/2407.17200), [slides](publication/PCAF_GenBoundsCombinatorial_slides/Axel_combinatorial_perturbed_2024_07_ISMP.pdf)
 
-21. (to appear) PCAF, [Alain Bensoussan](https://profiles.utdallas.edu/alain.bensoussan), _Reproducing Kernel Approach to Linear-Quadratic Mean Field Control Problems with Additive Noise_, July 2024, **CDC 2024**
+21. PCAF, [Alain Bensoussan](https://profiles.utdallas.edu/alain.bensoussan), _Reproducing Kernel Approach to Linear-Quadratic Mean Field Control Problems with Additive Noise_, July 2024, [article](https://ieeexplore.ieee.org/document/10886326), **CDC 2024**
 
 20. (submitted) PCAF, [Stéphane Gaubert](http://www.cmap.polytechnique.fr/~gaubert/), _Order isomorphisms of sup-stable function spaces: continuous, Lipschitz, c-convex, and beyond_, April 2024, [arXiv](https://arxiv.org/abs/2404.06857), [slides](publication/PCAF_Isomorphisms2024/PCAF_Isomorphisms_slides_AKOR_110424.pdf)
 
